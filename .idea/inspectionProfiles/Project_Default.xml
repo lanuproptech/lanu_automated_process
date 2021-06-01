@@ -1,0 +1,53 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.project1" />
+          <option value="lanu_app_test.QgsApplication" />
+          <option value="lanu_app_test.QDesktopWidget" />
+          <option value="lanu_app_test.QMessageBox" />
+          <option value="lanu_app_test.QDialog" />
+          <option value="lanu_app_test.unicode" />
+          <option value="lanu_app_test.QgsCoordinateReferenceSystem" />
+          <option value="lanu_app_test.QgsPoint" />
+          <option value="lanu_app_test.QgsProject" />
+          <option value="lanu_app_test.QColor" />
+          <option value="lanu_app_test.Qt" />
+          <option value="lanu_app_test.QgsSingleSymbolRenderer" />
+          <option value="lanu_app_test.QgsLineSymbol" />
+          <option value="lanu_app_test.QgsVectorLayer" />
+          <option value="lanu_app_test.QgsDataSourceUri" />
+          <option value="lanu_app_test.QgsVectorFileWriter" />
+          <option value="lanu_app_test.QgsWkbTypes" />
+          <option value="lanu_app_test.QgsField" />
+          <option value="lanu_app_test.QgsFields" />
+          <option value="lanu_app_test.*" />
+          <option value="dialogs.HouseInfoDialog.*" />
+          <option value="dialogs.ManualCheckURLInfoDialog.*" />
+          <option value="dialogs.ManualComboInfoDialog.*" />
+          <option value="utils.mapTools.*" />
+          <option value="dialogs.ManualMeasuresInfoDialog.*" />
+          <option value="dialogs.ManualExtensionsInfoDialog.*" />
+          <option value="dialogs.ManualLoftInfoDialog.*" />
+          <option value="dialogs.ManualTileDialog.*" />
+          <option value="dialogs.ManualURLInfoDialog.*" />
+          <option value="dialogs.PlaceSelectionDialog.*" />
+          <option value="dialogs.ProjectLoadDialog.*" />
+          <option value="dialogs.SplitHouseDialog.*" />
+          <option value="dialogs.ReportInfoDialog.*" />
+          <option value="dialogs.ReportPPInfoDialog.*" />
+          <option value="dialogs.ManualRulesDialog.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
